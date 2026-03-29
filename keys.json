@@ -1,0 +1,9 @@
+{
+  "keys": [
+    { "key": "van001", "allowed_number": "6285811000799" },
+    { "key": "void001", "allowed_number": "6285159693100" },
+    { "key": "ibas001", "allowed_number": "6285645237854" },
+    { "key": "sera003", "allowed_number": "6282112233445" },
+    { "key": "fard004", "allowed_number": "6285799887766" }
+  ]
+}
