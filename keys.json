@@ -4,6 +4,16 @@
     { "key": "void001", "allowed_number": "6285159693100" },
     { "key": "ibas001", "allowed_number": "6285645237854" },
     { "key": "sera003", "allowed_number": "6289518188217" },
-    { "key": "zeexy001", "allowed_number": "6285141560343" }
+    { "key": "zeexy001", "allowed_number": "6285141560343" },
+    { "key": "user001", "allowed_number": "6285123456789" },
+    { "key": "user002", "allowed_number": "6285223456789" },
+    { "key": "user003", "allowed_number": "6285323456789" },
+    { "key": "user004", "allowed_number": "6285423456789" },
+    { "key": "user005", "allowed_number": "6285523456789" },
+    { "key": "user006", "allowed_number": "6285623456789" },
+    { "key": "user007", "allowed_number": "6285723456789" },
+    { "key": "user008", "allowed_number": "6285823456789" },
+    { "key": "user009", "allowed_number": "6285923456789" },
+    { "key": "user010", "allowed_number": "6285023456789" }
   ]
 }
