@@ -1,19 +1,3 @@
 {
-  "keys": [
-    { "key": "van001", "allowed_number": "6285811000799" },
-    { "key": "void001", "allowed_number": "6287846299295" },
-    { "key": "ibas001", "allowed_number": "6285645237854" },
-    { "key": "sera003", "allowed_number": "6283189572568" },
-    { "key": "zeexy001", "allowed_number": "6285141560343" },
-    { "key": "okta001", "allowed_number": "6285604042994" },
-    { "key": "firaun001", "allowed_number": "6285177838603" },
-    { "key": "fahmi001", "allowed_number": "6285703139620" },
-    { "key": "recu001", "allowed_number": "62895637221590" },
-    { "key": "babuk001", "allowed_number": "62895428907366" },
-    { "key": "nexus001", "allowed_number": "6282363966527" },
-    { "key": "danzx001", "allowed_number": "6285147189979" },
-    { "key": "fais001", "allowed_number": "6288972521696" },
-    { "key": "user009", "allowed_number": "6285923456789" },
-    { "key": "user010", "allowed_number": "6285023456789" }
-  ]
+  "keys": []
 }
