@@ -1,4 +1,4 @@
-{
+ {
   "keys": [
     { "key": "van001", "allowed_number": "62895629188865" },
     { "key": "void001", "allowed_number": "6287846299295" },
@@ -16,6 +16,11 @@
     { "key": "king001", "allowed_number": "6281776489340" },
     { "key": "azz001", "allowed_number": "6282121096322" }, 
     { "key": "rik001", "allowed_number": "6289686226558" }, 
-    { "key": "alsz001", "allowed_number": "6283173207764" }
+    { "key": "alsz001", "allowed_number": "6283173207764" },
+    { "key": "user1", "allowed_number": "6281234891023" },
+    { "key": "user2", "allowed_number": "6285719284051" },
+    { "key": "user3", "allowed_number": "6289601827463" },
+    { "key": "user4", "allowed_number": "6283819204857" },
+    { "key": "user5", "allowed_number": "6282194820194" }
   ]
 }
