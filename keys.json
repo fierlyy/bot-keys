@@ -21,6 +21,11 @@
     { "key": "ehan001", "allowed_number": "62856038348543" },
     { "key": "anomali001", "allowed_number": "6285166652687" },
     { "key": "vinno001", "allowed_number": "6289530738081" },
-    { "key": "atha001", "allowed_number": "6285292478010" }
+    { "key": "atha001", "allowed_number": "6285292478010" },
+    { "key": "kosong001", "allowed_number": "6280000000001" },
+    { "key": "kosong002", "allowed_number": "6280000000002" },
+    { "key": "kosong003", "allowed_number": "6280000000003" },
+    { "key": "kosong004", "allowed_number": "6280000000004" },
+    { "key": "kosong005", "allowed_number": "6280000000005" }
   ]
 }
