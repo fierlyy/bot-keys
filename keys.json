@@ -1,31 +1,112 @@
 {
   "keys": [
-    { "key": "van001", "allowed_number": "62895629188865" },
-    { "key": "void001", "allowed_number": "6287846299295" },
-    { "key": "ibas001", "allowed_number": "6285645237854" },
-    { "key": "biji001", "allowed_number": "6285652153483" },
-    { "key": "zeexy001", "allowed_number": "6285141560343" },
-    { "key": "okta001", "allowed_number": "6285604042994" },
-    { "key": "firaun001", "allowed_number": "6285177838603" },
-    { "key": "fahmi001", "allowed_number": "6285703139620" },
-    { "key": "recu001", "allowed_number": "6285178471574" },
-    { "key": "babuk001", "allowed_number": "62895428907366" },
-    { "key": "nexus001", "allowed_number": "6283108718427" },
-    { "key": "danzx001", "allowed_number": "6285872066397" },
-    { "key": "fais001", "allowed_number": "6285759525673" },
-    { "key": "king001", "allowed_number": "6281776489340" },
-    { "key": "azz001", "allowed_number": "6282121096322" }, 
-    { "key": "rik001", "allowed_number": "6289686226558" }, 
-    { "key": "alsz001", "allowed_number": "6289679312175" },
-    { "key": "pier1", "allowed_number": "62895626739271" },
-    { "key": "ehan001", "allowed_number": "62856038348543" },
-    { "key": "anomali001", "allowed_number": "6285600757138" },
-    { "key": "vinno001", "allowed_number": "6289530738081" },
-    { "key": "atha001", "allowed_number": "6285292478010" },
-    { "key": "upay001", "allowed_number": "6289656827090" },
-    { "key": "jek001", "allowed_number": "6285180766462" },
-    { "key": "iky001", "allowed_number": "6285194591370" },
-    { "key": "umbay001", "allowed_number": "6285126242770" },
-    { "key": "rejak001", "allowed_number": "6285602760879" }
+    {
+      "key": "van001",
+      "allowed_number": "62895629188865"
+    },
+    {
+      "key": "void001",
+      "allowed_number": "6287846299295"
+    },
+    {
+      "key": "ibas001",
+      "allowed_number": "6285645237854"
+    },
+    {
+      "key": "biji001",
+      "allowed_number": "6285652153483"
+    },
+    {
+      "key": "zeexy001",
+      "allowed_number": "6285141560343"
+    },
+    {
+      "key": "okta001",
+      "allowed_number": "6285604042994"
+    },
+    {
+      "key": "firaun001",
+      "allowed_number": "6285177838603"
+    },
+    {
+      "key": "fahmi001",
+      "allowed_number": "6285703139620"
+    },
+    {
+      "key": "recu001",
+      "allowed_number": "6285178471574"
+    },
+    {
+      "key": "babuk001",
+      "allowed_number": "62895428907366"
+    },
+    {
+      "key": "nexus001",
+      "allowed_number": "6283108718427"
+    },
+    {
+      "key": "danzx001",
+      "allowed_number": "6285872066397"
+    },
+    {
+      "key": "fais001",
+      "allowed_number": "6285759525673"
+    },
+    {
+      "key": "king001",
+      "allowed_number": "6281776489340"
+    },
+    {
+      "key": "azz001",
+      "allowed_number": "6282121096322"
+    },
+    {
+      "key": "rik001",
+      "allowed_number": "6289686226558"
+    },
+    {
+      "key": "alsz001",
+      "allowed_number": "6289679312175"
+    },
+    {
+      "key": "pier1",
+      "allowed_number": "6264728362834"
+    },
+    {
+      "key": "ehan001",
+      "allowed_number": "62856038348543"
+    },
+    {
+      "key": "anomali001",
+      "allowed_number": "6285600757138"
+    },
+    {
+      "key": "vinno001",
+      "allowed_number": "6289530738081"
+    },
+    {
+      "key": "atha001",
+      "allowed_number": "6285292478010"
+    },
+    {
+      "key": "upay001",
+      "allowed_number": "6289656827090"
+    },
+    {
+      "key": "jek001",
+      "allowed_number": "6285180766462"
+    },
+    {
+      "key": "iky001",
+      "allowed_number": "6285194591370"
+    },
+    {
+      "key": "umbay001",
+      "allowed_number": "6285126242770"
+    },
+    {
+      "key": "rejak001",
+      "allowed_number": "6285602760879"
+    }
   ]
 }
